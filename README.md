@@ -1,2 +1,2 @@
-# HTML-CSS-and-Javascript-for-Web-Developers
+# HTML-CSS
 Coursera course
